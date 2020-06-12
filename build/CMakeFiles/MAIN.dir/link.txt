@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/MAIN.dir/src/ecc.cpp.o CMakeFiles/MAIN.dir/src/ecc_base.cpp.o CMakeFiles/MAIN.dir/src/key_message.cpp.o CMakeFiles/MAIN.dir/src/main.cpp.o CMakeFiles/MAIN.dir/src/point.cpp.o  -o ../bin/MAIN 
